@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="/FFHdemo/servlet/rest/ffhApi/test">welcome to ffh</a>
+<a href="/FFHdemo/servlet/rest/ffhApi/test">welcome to ffh</a> 
 </body>
 </html>
